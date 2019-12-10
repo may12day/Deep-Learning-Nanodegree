@@ -13,3 +13,5 @@ Welcome to my personal homespace where I shared my approach to each project in U
 - [Project 1 : Predicting Bike Sharing Patterns](https://github.com/may12day/Deep-Learning-Nanodegree/tree/master/Project_1_bikesharing)
 
 - [Project 2 : Dog Breed Classification](https://github.com/may12day/Deep-Learning-Nanodegree/tree/master/Project_2_dog-classification)
+
+- [Project 3 : TV Scripts Generation](https://github.com/may12day/Deep-Learning-Nanodegree/tree/master/Project_3_tv_script_generation)
